@@ -1,0 +1,2 @@
+# ALUmachine
+ALU is a sentient being that receives stimuli through cameras and microphones. This humanoid bot analyses its surroundings and makes sense of its environment through web scraping, abstractive text summarization and word vector correlation with meaning. The end goal is to create a machine that generates new thought from its surroundings, ranging from childish ideas to philosophical dilemmas. 
